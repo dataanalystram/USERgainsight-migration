@@ -1,0 +1,280 @@
+{
+  "migrationId": "migration_2025-07-01T18-47-18-236Z_e1p7cj",
+  "startTime": "2025-07-01T18:47:18.237Z",
+  "endTime": "2025-07-01T18:50:06.004Z",
+  "totalDuration": 167767,
+  "totalProcessed": 20,
+  "successfulMigrations": [],
+  "failedMigrations": [
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJAA162OUIQTEUO3EOBY",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:47:56.282Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "ZÜRCHER TRASPORTI SA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "#reason insoluto",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJEPWNP5MLGP6OM1WLPV",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:47:59.923Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "Gb Logistica Societa' A Responsabilita' Limitata",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJXFHBKB8DJO49EV7CHT",
+      "reason": "No company ID found for \"GIANLUCA BONDATTI SOCIETA' A RESPONSABILITA'LIMITATA\"",
+      "failedAt": "2025-07-01T18:47:59.947Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "GIANLUCA BONDATTI SOCIETA' A RESPONSABILITA'LIMITATA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ3LU1O6D6WVZ695TQX8",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:06.892Z",
+      "activityType": "e7639386-5cd0-4afe-b9a1-3225be4d3703",
+      "companyName": "CAPPUZZELLO NOLEGGI S.R.L.",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Reso senza penale",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJBY9QIZGGJE0X0CC62T",
+      "reason": "No company ID found for \"AGRITECNICA SRL\"",
+      "failedAt": "2025-07-01T18:48:06.907Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "AGRITECNICA SRL",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Riattivato Reveal da Visirun inv.term",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJS5UFFDKSMHJ2BKL8C8",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:10.923Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "MAGALINI SRL - TECNOLOGIE PER L'EDILIZIA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "IMPORTANTE!!!",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJD7G7S0E5YE5KGZS0W3",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:45.765Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 39247 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJN4CB5HN6M4RYE10V51",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:49.661Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 45133 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJDO9B38ZBXRIQ4J3X7V",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:53.465Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 45115 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJC7ZXQGVOLE3CR2L32H",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:48:57.031Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 45243 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ4ZDYN50AQTV0SJUBUZ",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:01.025Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 46337 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJVC73I97H4AUPES69DU",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:04.942Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 45844 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJVASHAZC4XVWKDY0XGN",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:08.608Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "UNIVERSALGEST - ADMINISTRAÇÃO DE IMÓVEIS, LDA",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Case # 09500902: Redução de frota - 06-XG-02 has been assigned to Celina Almeida Brandao",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJX25GQIKKSN4V9ORM1O",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:12.493Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "BETOTRANS II - UNIPESSOAL, LDA",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Secil Betão: Instalação de GPS nas carrinhas BR-60-ST e BG-99-QL",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ5X1RDPONYCFHQL3ZGG",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:16.487Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "GOLD LIMOUSINE - AUTOMÓVEIS DE TURISMO, LDA ",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sergio Duarte De Sousa Falagueira mentioned you in a comment",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJTHJCXYS2G3XFBYLQ0H",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:20.118Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "EABL - Associação para o Desenvolvimento da Estação de Apoio à Bovinicultura Leiteira",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 41683 updated to Substituída EABL - Associação para o Desenvolvimento da Estação de Apoio à Bovinicultura Leiteira 502566175",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ4Q5TB98TV7XJLXDVZ0",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:23.754Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "UNIVERSALGEST - ADMINISTRAÇÃO DE IMÓVEIS, LDA",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Case # 09500594: Nova unidade ou troca, mas cliente não tem contrato com a Verizon has been assigned to Celina Almeida Brandao",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJPLMXZM7F6V10OHBS8G",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:49:27.751Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "GOLD LIMOUSINE - AUTOMÓVEIS DE TURISMO, LDA ",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Angel Da Costa Ferreira Lima mentioned you in a comment",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJRYJHVAHI9E3IEJ4M0M",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:50:01.980Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "CARLOS RUA TRINDADE & FILHOS, LDA",
+      "authorEmail": "joana.nobre@verizonconnect.com",
+      "subject": "Case # 09500724: Suporte to CS - Contrato- 04-37-JE has been assigned to Joana Nobre Pinheiro",
+      "errorCode": "UNKNOWN_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ38ZFDWXHBNX1UILS29",
+      "reason": "Draft creation failed: Request failed with status code 401 (401)",
+      "failedAt": "2025-07-01T18:50:06.000Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "TRANSPORTES AZEVEDO, LDA.",
+      "authorEmail": "joana.nobre@verizonconnect.com",
+      "subject": "RE: Verizon Connect [ ref:!00D30013lQ.!500Dm0n445D:ref ]",
+      "errorCode": "UNKNOWN_ERROR"
+    }
+  ],
+  "statistics": {
+    "totalCount": 20,
+    "successCount": 0,
+    "failureCount": 20,
+    "batchesProcessed": 1,
+    "averageTimePerActivity": 8388
+  },
+  "batchTiming": [
+    {
+      "batchIndex": 1,
+      "batchSize": 20,
+      "startTime": "2025-07-01T18:47:20.114Z",
+      "endTime": "2025-07-01T18:50:06.000Z",
+      "duration": 165886,
+      "durationFormatted": "2m 45s",
+      "successCount": 0,
+      "failureCount": 20,
+      "averageTimePerActivity": 8294
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "migrationOverview": {
+      "migrationId": "migration_2025-07-01T18-47-18-236Z_e1p7cj",
+      "startTime": "2025-07-01T18:47:18.237Z",
+      "endTime": "2025-07-01T18:50:06.004Z",
+      "totalDuration": "2m 47s",
+      "totalDurationMs": 167767
+    },
+    "statistics": {
+      "totalActivitiesProcessed": 20,
+      "successfulMigrations": 0,
+      "failedMigrations": 20,
+      "successRate": "0.00%",
+      "batchesProcessed": 1,
+      "averageTimePerActivity": "8388ms",
+      "unexpectedErrors": 0
+    },
+    "performance": {
+      "totalBatches": 1,
+      "fastestBatch": {
+        "batchIndex": 1,
+        "duration": "2m 45s",
+        "activitiesProcessed": 20
+      },
+      "slowestBatch": {
+        "batchIndex": 1,
+        "duration": "2m 45s",
+        "activitiesProcessed": 20
+      },
+      "averageBatchTime": "2m 45s"
+    },
+    "errorAnalysis": {
+      "totalErrors": 20,
+      "errorBreakdown": [
+        {
+          "errorType": "UNKNOWN_ERROR",
+          "count": 18
+        },
+        {
+          "errorType": "COMPANY_MAPPING_ERROR",
+          "count": 2
+        }
+      ],
+      "mostCommonError": {
+        "errorType": "UNKNOWN_ERROR",
+        "count": 18
+      }
+    }
+  }
+}

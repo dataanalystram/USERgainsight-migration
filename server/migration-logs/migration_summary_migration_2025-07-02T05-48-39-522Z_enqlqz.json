@@ -1,0 +1,29 @@
+{
+  "migrationOverview": {
+    "migrationId": "migration_2025-07-02T05-48-39-522Z_enqlqz",
+    "startTime": "2025-07-02T05:48:39.524Z",
+    "endTime": "2025-07-02T05:48:40.722Z",
+    "totalDuration": "1s 198ms",
+    "totalDurationMs": 1198
+  },
+  "statistics": {
+    "totalActivitiesProcessed": 0,
+    "successfulMigrations": 0,
+    "failedMigrations": 0,
+    "successRate": "0%",
+    "batchesProcessed": 0,
+    "averageTimePerActivity": "nullms",
+    "unexpectedErrors": 1
+  },
+  "performance": {
+    "totalBatches": 0,
+    "fastestBatch": null,
+    "slowestBatch": null,
+    "averageBatchTime": "0ms"
+  },
+  "errorAnalysis": {
+    "totalErrors": 0,
+    "errorBreakdown": [],
+    "mostCommonError": null
+  }
+}

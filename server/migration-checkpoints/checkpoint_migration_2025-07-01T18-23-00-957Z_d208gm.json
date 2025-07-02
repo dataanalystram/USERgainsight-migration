@@ -1,0 +1,9 @@
+{
+  "migrationId": "migration_2025-07-01T18-23-00-957Z_d208gm",
+  "batchIndex": 0,
+  "processedCount": 20,
+  "successCount": 6,
+  "failureCount": 14,
+  "timestamp": "2025-07-01T18:25:13.542Z",
+  "correlationId": "59e1c7808ac12eee"
+}

@@ -1,0 +1,186 @@
+{
+  "migrationId": "migration_2025-07-02T13-21-19-205Z_gu82kl",
+  "startTime": "2025-07-02T13:21:19.205Z",
+  "endTime": "2025-07-02T13:21:23.283Z",
+  "totalDuration": 4078,
+  "totalProcessed": 7,
+  "successfulMigrations": [],
+  "failedMigrations": [
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJAA162OUIQTEUO3EOBY",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T13:21:22.539Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "ZÜRCHER TRASPORTI SA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "#reason insoluto",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJEPWNP5MLGP6OM1WLPV",
+      "reason": "userId is not defined",
+      "failedAt": "2025-07-02T13:21:22.647Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "Gb Logistica Societa' A Responsabilita' Limitata",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte",
+      "errorCode": "USER_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJXFHBKB8DJO49EV7CHT",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T13:21:22.756Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "GIANLUCA BONDATTI SOCIETA' A RESPONSABILITA'LIMITATA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ3LU1O6D6WVZ695TQX8",
+      "reason": "userId is not defined",
+      "failedAt": "2025-07-02T13:21:22.862Z",
+      "activityType": "e7639386-5cd0-4afe-b9a1-3225be4d3703",
+      "companyName": "CAPPUZZELLO NOLEGGI S.R.L.",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Reso senza penale",
+      "errorCode": "USER_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJBY9QIZGGJE0X0CC62T",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T13:21:22.971Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "AGRITECNICA SRL",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Riattivato Reveal da Visirun inv.term",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJS5UFFDKSMHJ2BKL8C8",
+      "reason": "userId is not defined",
+      "failedAt": "2025-07-02T13:21:23.073Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "MAGALINI SRL - TECNOLOGIE PER L'EDILIZIA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "IMPORTANTE!!!",
+      "errorCode": "USER_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJD7G7S0E5YE5KGZS0W3",
+      "reason": "userId is not defined",
+      "failedAt": "2025-07-02T13:21:23.182Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 39247 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "USER_MAPPING_ERROR"
+    }
+  ],
+  "statistics": {
+    "totalCount": 7,
+    "successCount": 0,
+    "failureCount": 7,
+    "batchesProcessed": 1,
+    "averageTimePerActivity": 583
+  },
+  "batchTiming": [
+    {
+      "batchIndex": 1,
+      "batchSize": 7,
+      "startTime": "2025-07-02T13:21:22.516Z",
+      "endTime": "2025-07-02T13:21:23.283Z",
+      "duration": 767,
+      "durationFormatted": "0s 767ms",
+      "successCount": 0,
+      "failureCount": 7,
+      "averageTimePerActivity": 110
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2025-07-02T13:21:22.647Z",
+      "context": "Processing entry 1I004SG7RDV06L1HFJEPWNP5MLGP6OM1WLPV",
+      "message": "userId is not defined",
+      "stack": "ReferenceError: userId is not defined\n    at processTimelineEntry (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1207:15)\n    at async processBatch (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1337:22)\n    at async exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1577:30)",
+      "type": "ReferenceError"
+    },
+    {
+      "timestamp": "2025-07-02T13:21:22.862Z",
+      "context": "Attachment processing for entry 1I004SG7RDV06L1HFJ3LU1O6D6WVZ695TQX8",
+      "message": "userId is not defined",
+      "stack": "ReferenceError: userId is not defined\n    at processTimelineEntry (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1162:11)\n    at async processBatch (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1337:22)\n    at async exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1577:30)",
+      "type": "ReferenceError"
+    },
+    {
+      "timestamp": "2025-07-02T13:21:22.862Z",
+      "context": "Processing entry 1I004SG7RDV06L1HFJ3LU1O6D6WVZ695TQX8",
+      "message": "userId is not defined",
+      "stack": "ReferenceError: userId is not defined\n    at /Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1176:11\n    at Array.map (<anonymous>)\n    at processTimelineEntry (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1174:84)\n    at async processBatch (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1337:22)\n    at async exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1577:30)",
+      "type": "ReferenceError"
+    },
+    {
+      "timestamp": "2025-07-02T13:21:23.073Z",
+      "context": "Processing entry 1I004SG7RDV06L1HFJS5UFFDKSMHJ2BKL8C8",
+      "message": "userId is not defined",
+      "stack": "ReferenceError: userId is not defined\n    at processTimelineEntry (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1207:15)\n    at async processBatch (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1337:22)\n    at async exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1577:30)",
+      "type": "ReferenceError"
+    },
+    {
+      "timestamp": "2025-07-02T13:21:23.182Z",
+      "context": "Processing entry 1I004SG7RDV06L1HFJD7G7S0E5YE5KGZS0W3",
+      "message": "userId is not defined",
+      "stack": "ReferenceError: userId is not defined\n    at /Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1176:11\n    at Array.map (<anonymous>)\n    at processTimelineEntry (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1174:84)\n    at async processBatch (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1337:22)\n    at async exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1577:30)",
+      "type": "ReferenceError"
+    }
+  ],
+  "summary": {
+    "migrationOverview": {
+      "migrationId": "migration_2025-07-02T13-21-19-205Z_gu82kl",
+      "startTime": "2025-07-02T13:21:19.205Z",
+      "endTime": "2025-07-02T13:21:23.283Z",
+      "totalDuration": "4s 78ms",
+      "totalDurationMs": 4078
+    },
+    "statistics": {
+      "totalActivitiesProcessed": 7,
+      "successfulMigrations": 0,
+      "failedMigrations": 7,
+      "successRate": "0.00%",
+      "batchesProcessed": 1,
+      "averageTimePerActivity": "583ms",
+      "unexpectedErrors": 5
+    },
+    "performance": {
+      "totalBatches": 1,
+      "fastestBatch": {
+        "batchIndex": 1,
+        "duration": "0s 767ms",
+        "activitiesProcessed": 7
+      },
+      "slowestBatch": {
+        "batchIndex": 1,
+        "duration": "0s 767ms",
+        "activitiesProcessed": 7
+      },
+      "averageBatchTime": "0s 767ms"
+    },
+    "errorAnalysis": {
+      "totalErrors": 7,
+      "errorBreakdown": [
+        {
+          "errorType": "USER_MAPPING_ERROR",
+          "count": 4
+        },
+        {
+          "errorType": "COMPANY_MAPPING_ERROR",
+          "count": 3
+        }
+      ],
+      "mostCommonError": {
+        "errorType": "USER_MAPPING_ERROR",
+        "count": 4
+      }
+    }
+  }
+}

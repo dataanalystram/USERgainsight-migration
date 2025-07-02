@@ -1,0 +1,122 @@
+[
+  {
+    "name": "JSESSIONID",
+    "value": "2FABA14221C9C6F2E83FA1264C4D52D3",
+    "domain": "auth.gainsightcloud.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "com.auth0.auth.YmFmOTU2Y2EtNWJhMS00Y2JlLWJlODgtNmY5NmYxZjNiZjZi",
+    "value": "{%22nonce%22:null%2C%22state%22:%22YmFmOTU2Y2EtNWJhMS00Y2JlLWJlODgtNmY5NmYxZjNiZjZi%22%2C%22lastUsedConnection%22:%22DB-1GAP19DNX5M8KT35RY4M73LJWEYDZCLR7OOM%22}",
+    "domain": "auth.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751464414,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "did",
+    "value": "s%3Av0%3A8e94e18c-31c8-4c1a-9775-36bfba8c17dc.u9pLE2407kiossI1zoash94Ox4198dpikWyFvTszMQo",
+    "domain": "secured.gainsightcloud.com",
+    "path": "/",
+    "expires": 1783020214.201592,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "auth0",
+    "value": "s%3Ak62VIqztKI344h9pwDAwpjOzlzF05qvL.dyzXUqaDd5ev65eBMAbXPM%2FvKfGsHVGDmhTjKpVpiNs",
+    "domain": "secured.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751721814.492218,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "did_compat",
+    "value": "s%3Av0%3A8e94e18c-31c8-4c1a-9775-36bfba8c17dc.u9pLE2407kiossI1zoash94Ox4198dpikWyFvTszMQo",
+    "domain": "secured.gainsightcloud.com",
+    "path": "/",
+    "expires": 1783020214.201766,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth0_compat",
+    "value": "s%3Ak62VIqztKI344h9pwDAwpjOzlzF05qvL.dyzXUqaDd5ev65eBMAbXPM%2FvKfGsHVGDmhTjKpVpiNs",
+    "domain": "secured.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751721814.492373,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "co%2Fverifier%2Fhttps%253A%252F%252Fsecured.gainsightcloud.com%2FycE4umMSp8G7",
+    "value": "%226N8MEUrlWHvEraI5dWbMU2DCmQ4d0b7G%22",
+    "domain": "auth.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751463514,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALB",
+    "value": "TIppDm0nDQrMCWr4mZyQfU8GFqvfLsnSSflDaGexPjfUleYpzo0Z9kKSp5kzXUx1KamL+txS7BVvLNk3jT/e3BBsbUUr9bDg4XsgHExnwZxG6iuCklMLXR8K48N/",
+    "domain": "auth.gainsightcloud.com",
+    "path": "/",
+    "expires": 1752067425.824298,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "TIppDm0nDQrMCWr4mZyQfU8GFqvfLsnSSflDaGexPjfUleYpzo0Z9kKSp5kzXUx1KamL+txS7BVvLNk3jT/e3BBsbUUr9bDg4XsgHExnwZxG6iuCklMLXR8K48N/",
+    "domain": "auth.gainsightcloud.com",
+    "path": "/",
+    "expires": 1752067425.824514,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gs.auth.fdef6c6acff0302b7fca08b61e7ff087dfeb95e1eaa4884bfbb6eb3b08ad5e2c",
+    "value": "eyJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiZGlyIn0..74PmDL08R7XEKVv_.IvUVbPG6YrDQBOEAtFtC-Bqo4Wj61a69-DNXBUU_dCb2xywypvcBNzxCIbzAhLubwPzs-RSAzwguECOq1LGVXSFSEh5ekmRLobh-_gi-RfUbXPZQ2xl8yyT289xAGe7jyncPV8HYrWFhAe4e1TTvJzfgEXe8MXouCY4ZcuUZCu1OH1CjzFMnXPfUaFKhtZjmmbqqtmPR9ezdy4QvcjqftLX3XTcRzwYzmA8d2bS1Dx1xSQcIBq48iXhJo46XYvTDuW2JOZfTe23rxxXocCRJFge9bAl7onTQBxBeVQ11qd7WbBb1fAJz3piuxCDOmApCYxaTpGaFNgcgi63VSRzo.XuTqrxJz7tbORwkIZQ8fSw",
+    "domain": ".auth.gainsightcloud.com",
+    "path": "/",
+    "expires": 1754054565.82461,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "eyJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiZGlyIn0..izlG-_jAB0qNuJn_.7VwoYlPnYP7vk4TR1dmNBzetyK4cLr8pjsP6NaRxcsKj9pqRpfOGY3sXZK1LeJjtcD7pXrw33L5qsi_QeT2wE_mrCu5u8zn2PK5im1BNR7e_iqzNEFvuk-w0wM3RrXW-2WZKgizT5QllkduwOoLwSNpEJsv1EdfTQU0y4MlUNSpqpz2A_jS6jyZ0mRlQ_wMFzVm6JwjCdJKcAW6jYHpZzeAIDFyqMeYLFSnULixqLHi1RNdZYqfoLVrujumBl0XZ5tngeqatBY1Tcrr0GOJRIcouSjrKzN-lbOLhs0FrNazCko8peP32-iiIq3ERjAl1J-JMfCv4ys4a4h3zClwJjyZzkeJv1eWoKFPh06EKnKrDcmehy2A34HcI49CfnnqkrYU0BZRziP0CyDOy_JD5rOlWCilpCLxsfSpmWLswSy8Jy6O1UoRFcWekQtZVoatA-rdfpQ7e7YEQg27v5MYCrE65bb2AeDI-ll8LfWAuE_bqvNDtJCkKDcLjW8QHifjQ7TrHh_c4Knx06ygNKkm4S8NVFGLc55dk_jl3uwoc4SMVFlFCBOxhYoO4IGIi9DVLimdEJN-IVHsuCG1p25FeOWfqbIRetrkdmSe0ZPhyYnyiYIBWZXX8flIviqI2yQz-xNhWGlSjLSpeqbpR-4EYrNx8ewgfLa-DCrtrDahOcRbU-uVLL9EXiUUVLlhSOrHtDVqqJKA6Ea3eWfAngBVO3FrxtkCgEbx2lqqu4axv9xb_gapCRvjbLXym2BUATsQdzvHS0MDX8QuX2-bSPibXuANqT7KmNDzGEi3eIJ8Yl4zo1YbGGUg1sU7hRs7kzOmNcqvNm1mXApdAlmG7VKHbE8K1jDvaTTM4pLXbC6c3u5RJk7fjjlvv2WDZgDnz4F8TN5A3i_cLu0Z5qH0a5Rsvzc36md0cxUalfJcJ0vZ8KifRphHG0dTopbteCO6B2lQubvxE5UgHqgmhWUWyCeDhYMzsPyJnpB6hA0XN5rNe1IDTlTKsLkKl-sDLTUOqCxVZVzmYqwicActBQvoisNR1SuBDgcZOZ4uJqROhTYzkfweWdEsZeAb2ltLwNlP0Tbtu678KxP-KgA434Ey3Kr59UngYmU3sN7WLkReHDjU1As735228pMyWkDFqy7zwZdnWvVepoDBN6JhUxzLv_B-nJWr9aStQtpDFkmR4glHS1PuarmAdJd6OVqHGR9PFurMC1LSnTIEw3nJtjvGSuSTkByhSYAIOsYpMQd9wCVfmPX22gC706zO2nH04YqVybWMyy5JKh3-ybnvxEN_lHWyQ6pph_ilFVIQIEEQP6cchGnM1KJS1yWlq6KQgIM0LcXyrfewrcmbYQFl5ejhtutwDOYXMHSt1IPgQM6ZzVs8T6OldkQ-IHm4DSfhtYerMCelFnqpqzUczYK8VzXTPdcYMP_KUlwa8et13iSgmb93-qhDT5NRaeA8BOnva1hTxmmKqcWBEhcEy92u-uvouFk4ylec-pMs_ZOoB2hT0FDHbR5oLZHyxyJLtZ-OdZqAMOqsRRpboSqso5YIbIVGBu3YQTBHItDynURC-ZHj3RbPZWVnJw0MPwWlyKrTPx8me4FfkYn1OVvmC6nU65R2ygW60df30zvhhntraI4HwZzDNGZvdN0kr7vXjbqqtFrqF4-IuK78m1Jns1BI0HxY8etlilaoAv6fA_cbyd5-y3IMpMrxv0TFMZqMYBf1hwZOaiTICKvd_d_0jNYmI0omNxlj0kAsxnWdM1dT0ZzNxjggGP0z0xcu_F57Kj6gOaEey5W0ZMHjfj_GJDNZMgcrWiyP5-RqRVQjjtEyoesxaLuXde00QBzndjdu4rOpeHtlbRvw7nj1Jr5nuiu7I5hLcfbcN1E0aK8IS7GICFCrPvU0yVfKrphB-GNQ5xzeJm7wjUzvsGabWP0PUpUkVPeouL-BRdm3DLJ4yEsDj3yvW1nQasJVZrr6KcV6D_iLFHEUNo7JmZxNoKxS98vWDVJt9DGBPXMDQT68UqiXAQgenj8wAz9wx4MgTBPk3DQUQnVKEavnLX2V06BYtIZUNK7E2JPDKS5fgoPdI3sEwuboXK2ECVZ5IgIGtL87mlryJbqeQBG_LyxsNAPlTg6wxiXBVU3j2RTTVNcPcMYDkLY72ggSBmZNkPfcjm6UAqJZ6Al0AcyJqwipjE5ULMKNezGlycIam7aJdVa_kEUuvRCTVJwmBnuNs8oeeafMeiCcj_8ApzleK1Vnp0uTcLSZpUAkrUTj6r4Trn-pdAqgOIb1REIvDSXnqE8p0bBOmoiBqkY336NqDj1Dd7LxvMh0N9LCDc1ZO2Ebtz2nX16jQszWKQbo3gdCK6HqgD6Er2L4IWn0v76hR97qlorg_CkQNITD0DbvxvX3iy58fAfhRQ6-LrjcP2SIeN5X7d9X6gAK0cxOIGpXrTHWSLYXAErkKZTg5668NH8HcMUOO8UxX45cicHhI6CjngH7DDJKQmkAoc9eiM-bcUZP_e5sj8_csriyjWqntPOIqDnZXO3QJaItPDJwBP4p_tpmVgpXnKas8qP78D7OxXSvBRTnTvAfhamez1-lMM1a180CWY7sA7bQIHz5SafWw9aIBahkRCqCJCzw0gBb1LWYpXoS2L0GzOkthRn0Nw1CW_w.ehR4gMerG8sEMTrrGbM2Xg",
+    "domain": ".vznconnect.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751484166.194202,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "platform_sid",
+    "value": "eyJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiZGlyIn0..VXLxALxSRKPIH3Zj.0k5TP5utSrV97cyVtspJOBjoAR7_61ZDrCbCsXXR4GGEtrbDq1cWZtiJOvRPyLYp1Lr_pseBemuxYidooD_Dl92Gzs5uN7SipNzI99ZUGdT8AEWAl7ZRTxgS_E9sSHH5Ad7RDaqlzxYUMxVaFhu5aG8Zx2e62yJn2xERvkIWwrmI9jz_VMuXbQmlBW4iWr6JGzkU6HUJomsXp861e_FnwWGtw9gEm4Och-_IQm3xaH5i0wJII5Tyfw5QySincqXA.8HxGjZ6q_UqlvvJLYeJOTQ",
+    "domain": ".vznconnect.gainsightcloud.com",
+    "path": "/",
+    "expires": 1751484166.19444,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

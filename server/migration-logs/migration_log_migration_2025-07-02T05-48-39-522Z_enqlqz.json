@@ -1,0 +1,55 @@
+{
+  "migrationId": "migration_2025-07-02T05-48-39-522Z_enqlqz",
+  "startTime": "2025-07-02T05:48:39.524Z",
+  "endTime": "2025-07-02T05:48:40.722Z",
+  "totalDuration": 1198,
+  "totalProcessed": 0,
+  "successfulMigrations": [],
+  "failedMigrations": [],
+  "statistics": {
+    "totalCount": 20,
+    "successCount": 0,
+    "failureCount": 0,
+    "batchesProcessed": 0,
+    "averageTimePerActivity": null
+  },
+  "batchTiming": [],
+  "errors": [
+    {
+      "timestamp": "2025-07-02T05:48:40.722Z",
+      "context": "Reference data loading",
+      "message": "Could not get company IDs for API calls",
+      "stack": "Error: Could not get company IDs for API calls\n    at exports.migrateTimelines (/Users/ramprasadsomaraju/Desktop/GS Migration/GainsightTool-dev2/server/controllers/timelineController.js:1781:23)",
+      "type": "Error"
+    }
+  ],
+  "summary": {
+    "migrationOverview": {
+      "migrationId": "migration_2025-07-02T05-48-39-522Z_enqlqz",
+      "startTime": "2025-07-02T05:48:39.524Z",
+      "endTime": "2025-07-02T05:48:40.722Z",
+      "totalDuration": "1s 198ms",
+      "totalDurationMs": 1198
+    },
+    "statistics": {
+      "totalActivitiesProcessed": 0,
+      "successfulMigrations": 0,
+      "failedMigrations": 0,
+      "successRate": "0%",
+      "batchesProcessed": 0,
+      "averageTimePerActivity": "nullms",
+      "unexpectedErrors": 1
+    },
+    "performance": {
+      "totalBatches": 0,
+      "fastestBatch": null,
+      "slowestBatch": null,
+      "averageBatchTime": "0ms"
+    },
+    "errorAnalysis": {
+      "totalErrors": 0,
+      "errorBreakdown": [],
+      "mostCommonError": null
+    }
+  }
+}

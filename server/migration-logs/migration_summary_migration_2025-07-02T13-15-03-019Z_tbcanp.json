@@ -1,0 +1,49 @@
+{
+  "migrationOverview": {
+    "migrationId": "migration_2025-07-02T13-15-03-019Z_tbcanp",
+    "startTime": "2025-07-02T13:15:03.019Z",
+    "endTime": "2025-07-02T13:15:04.447Z",
+    "totalDuration": "1s 428ms",
+    "totalDurationMs": 1428
+  },
+  "statistics": {
+    "totalActivitiesProcessed": 7,
+    "successfulMigrations": 0,
+    "failedMigrations": 7,
+    "successRate": "0.00%",
+    "batchesProcessed": 1,
+    "averageTimePerActivity": "204ms",
+    "unexpectedErrors": 5
+  },
+  "performance": {
+    "totalBatches": 1,
+    "fastestBatch": {
+      "batchIndex": 1,
+      "duration": "0s 767ms",
+      "activitiesProcessed": 7
+    },
+    "slowestBatch": {
+      "batchIndex": 1,
+      "duration": "0s 767ms",
+      "activitiesProcessed": 7
+    },
+    "averageBatchTime": "0s 767ms"
+  },
+  "errorAnalysis": {
+    "totalErrors": 7,
+    "errorBreakdown": [
+      {
+        "errorType": "USER_MAPPING_ERROR",
+        "count": 4
+      },
+      {
+        "errorType": "COMPANY_MAPPING_ERROR",
+        "count": 3
+      }
+    ],
+    "mostCommonError": {
+      "errorType": "USER_MAPPING_ERROR",
+      "count": 4
+    }
+  }
+}

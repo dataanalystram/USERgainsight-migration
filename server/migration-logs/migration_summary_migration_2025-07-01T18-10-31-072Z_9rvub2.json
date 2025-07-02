@@ -1,0 +1,49 @@
+{
+  "migrationOverview": {
+    "migrationId": "migration_2025-07-01T18-10-31-072Z_9rvub2",
+    "startTime": "2025-07-01T18:10:31.077Z",
+    "endTime": "2025-07-01T18:13:48.976Z",
+    "totalDuration": "3m 17s",
+    "totalDurationMs": 197899
+  },
+  "statistics": {
+    "totalActivitiesProcessed": 20,
+    "successfulMigrations": 6,
+    "failedMigrations": 14,
+    "successRate": "30.00%",
+    "batchesProcessed": 1,
+    "averageTimePerActivity": "9895ms",
+    "unexpectedErrors": 0
+  },
+  "performance": {
+    "totalBatches": 1,
+    "fastestBatch": {
+      "batchIndex": 1,
+      "duration": "3m 12s",
+      "activitiesProcessed": 20
+    },
+    "slowestBatch": {
+      "batchIndex": 1,
+      "duration": "3m 12s",
+      "activitiesProcessed": 20
+    },
+    "averageBatchTime": "3m 12s"
+  },
+  "errorAnalysis": {
+    "totalErrors": 14,
+    "errorBreakdown": [
+      {
+        "errorType": "UNKNOWN_ERROR",
+        "count": 12
+      },
+      {
+        "errorType": "COMPANY_MAPPING_ERROR",
+        "count": 2
+      }
+    ],
+    "mostCommonError": {
+      "errorType": "UNKNOWN_ERROR",
+      "count": 12
+    }
+  }
+}

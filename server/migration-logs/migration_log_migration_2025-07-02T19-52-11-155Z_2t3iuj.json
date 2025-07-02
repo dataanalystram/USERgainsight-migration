@@ -1,0 +1,148 @@
+{
+  "migrationId": "migration_2025-07-02T19-52-11-155Z_2t3iuj",
+  "startTime": "2025-07-02T19:52:11.156Z",
+  "endTime": "2025-07-02T19:54:22.811Z",
+  "totalDuration": 131655,
+  "totalProcessed": 7,
+  "successfulMigrations": [
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJEPWNP5MLGP6OM1WLPV",
+      "targetActivityId": "1I004SG7RDV06L1HFJ7ZB7WTPY7W40K85BIU",
+      "migratedAt": "2025-07-02T19:52:50.687Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "Gb Logistica Societa' A Responsabilita' Limitata",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJ3LU1O6D6WVZ695TQX8",
+      "targetActivityId": "1I004SG7RDV06L1HFJ7UC25B74NDZDXZCXJL",
+      "migratedAt": "2025-07-02T19:53:28.815Z",
+      "activityType": "e7639386-5cd0-4afe-b9a1-3225be4d3703",
+      "companyName": "CAPPUZZELLO NOLEGGI S.R.L.",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Reso senza penale"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJS5UFFDKSMHJ2BKL8C8",
+      "targetActivityId": "1I004SG7RDV06L1HFJEE4IU21JVGKNKWFK5Y",
+      "migratedAt": "2025-07-02T19:54:04.847Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "MAGALINI SRL - TECNOLOGIE PER L'EDILIZIA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "IMPORTANTE!!!"
+    }
+  ],
+  "failedMigrations": [
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJAA162OUIQTEUO3EOBY",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T19:52:31.771Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "ZÜRCHER TRASPORTI SA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "#reason insoluto",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJXFHBKB8DJO49EV7CHT",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T19:53:08.224Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "GIANLUCA BONDATTI SOCIETA' A RESPONSABILITA'LIMITATA",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Relazione ditte",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJBY9QIZGGJE0X0CC62T",
+      "reason": "No company ID found",
+      "failedAt": "2025-07-02T19:53:46.647Z",
+      "activityType": "137ffe39-7f62-47f7-bc95-acf7ed97ae57",
+      "companyName": "AGRITECNICA SRL",
+      "authorEmail": "laura.pozzati@verizonconnect.com",
+      "subject": "Riattivato Reveal da Visirun inv.term",
+      "errorCode": "COMPANY_MAPPING_ERROR"
+    },
+    {
+      "sourceActivityId": "1I004SG7RDV06L1HFJD7G7S0E5YE5KGZS0W3",
+      "reason": "Draft creation failed",
+      "failedAt": "2025-07-02T19:54:22.710Z",
+      "activityType": "3c2b69c9-6eaf-4eef-b1a6-ebd31043628b",
+      "companyName": "Adivinhamotivo Lda",
+      "authorEmail": "celina.brandao@verizonconnect.com",
+      "subject": "Sales order 39247 updated to Substituída ADIVINHAMOTIVO,Lda.  513949640",
+      "errorCode": "UNKNOWN_ERROR"
+    }
+  ],
+  "statistics": {
+    "totalCount": 7,
+    "successCount": 3,
+    "failureCount": 4,
+    "batchesProcessed": 1,
+    "averageTimePerActivity": 18808
+  },
+  "batchTiming": [
+    {
+      "batchIndex": 1,
+      "batchSize": 7,
+      "startTime": "2025-07-02T19:52:12.196Z",
+      "endTime": "2025-07-02T19:54:22.810Z",
+      "duration": 130614,
+      "durationFormatted": "2m 10s",
+      "successCount": 3,
+      "failureCount": 4,
+      "averageTimePerActivity": 18659
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "migrationOverview": {
+      "migrationId": "migration_2025-07-02T19-52-11-155Z_2t3iuj",
+      "startTime": "2025-07-02T19:52:11.156Z",
+      "endTime": "2025-07-02T19:54:22.811Z",
+      "totalDuration": "2m 11s",
+      "totalDurationMs": 131655
+    },
+    "statistics": {
+      "totalActivitiesProcessed": 7,
+      "successfulMigrations": 3,
+      "failedMigrations": 4,
+      "successRate": "42.86%",
+      "batchesProcessed": 1,
+      "averageTimePerActivity": "18808ms",
+      "unexpectedErrors": 0
+    },
+    "performance": {
+      "totalBatches": 1,
+      "fastestBatch": {
+        "batchIndex": 1,
+        "duration": "2m 10s",
+        "activitiesProcessed": 7
+      },
+      "slowestBatch": {
+        "batchIndex": 1,
+        "duration": "2m 10s",
+        "activitiesProcessed": 7
+      },
+      "averageBatchTime": "2m 10s"
+    },
+    "errorAnalysis": {
+      "totalErrors": 4,
+      "errorBreakdown": [
+        {
+          "errorType": "COMPANY_MAPPING_ERROR",
+          "count": 3
+        },
+        {
+          "errorType": "UNKNOWN_ERROR",
+          "count": 1
+        }
+      ],
+      "mostCommonError": {
+        "errorType": "COMPANY_MAPPING_ERROR",
+        "count": 3
+      }
+    }
+  }
+}
